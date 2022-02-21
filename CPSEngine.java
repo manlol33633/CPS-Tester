@@ -1,4 +1,4 @@
-public class CPSEngine {
+class CPSEngine {
     private static int count;
     public CPSEngine() {
         count = 0;
